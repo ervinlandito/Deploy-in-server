@@ -1,9 +1,10 @@
 # 1. Remote Deploy-in-server
 # 2. Update Server dan Instalasi Node.js & Yarn
 
+ ```bash
 sudo apt update
 sudo apt upgrade -y
-
+```
 # Instal Node.js dan Yarn:
 
 sudo apt install curl -y
